@@ -1,6 +1,3 @@
-[submodule "coal_combuation_backend"]
-    path = coal_combustion_backend
-    url = 
 [submodule "coal_combustion_backend"]
 	path = coal_combustion_backend
-	url = https://github.com/LKVMOM/coal_combustion_backend.git
+	url = https://github.com/lkvmom/coal_combustion_backend.git
