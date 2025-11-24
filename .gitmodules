@@ -1,0 +1,7 @@
+[submodule "frontend"]
+    path = coalguardfrontend
+    url = https://github.com/isnameMy/coalguardfrontend.git
+
+[submodule "backend"]
+    path = glowbyte
+    url = https://github.com/lkvmom/glowbyte.git
