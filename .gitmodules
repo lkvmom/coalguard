@@ -1,7 +1,0 @@
-[submodule "coal_combustion_backend"]
-	path = coal_combustion_backend
-	url = https://github.com/lkvmom/coal_combustion_backend.git
-
-[submodule "coalguardfrontend"]
-	path = coalguardfrontend
-	url = https://github.com/isnameMy/coalguardFrontend.git
