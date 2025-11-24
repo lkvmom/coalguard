@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+venv/
+env/
+ENV/
+
+# Logs
+*.log
+
+# Models (если тяжёлые)
+models/*.pkl
+models/*.joblib
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Data (если тяжёлые)
+data/*.csv
+data/*.xlsx
+
+# Frontend
+node_modules/
+build/
+dist/
