@@ -4,4 +4,4 @@
 
 [submodule "coalguardfrontend"]
 	path = coalguardfrontend
-	url = https://github.com/isnameMy/coalguardfrontend.git
+	url = https://github.com/isnameMy/coalguardFrontend.git
